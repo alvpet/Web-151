@@ -1,0 +1,51 @@
+Peter Alvitre
+2/7/18
+M2T2 
+
+
+Part 2
+console.log("Pineapple");
+console.log("Boruto: The Next Generation");
+
+Part 3
+console.log("JavaScript");
+console.log(33.7);
+console.log(true);
+console.log(null);
+
+
+Part 4 
+console.log(18 + 3.5);
+console.log(2018 - 1969);
+console.log(65 / 240);
+console.log(0.2708 * 100);
+
+Part 5
+console.log("Teaching the world how to code".length);
+
+Part 6
+console.log("Codecademy".toUpperCase()); // Codecademy
+console.log("Codecademy".startsWith("C")); // True
+console.log('Codecademy'.toUpperCase()); 
+console.log('    Remove whitespace   '.trim());
+
+
+Part7
+console.log(Math.random() * 100 );
+console.log(Math.floor(Math.random() * 100));
+console.log(Math.ceil(43.8) * 100);
+console.log(Number. isInteger(2017));
+
+
+Part 8
+
+//Opening line.
+
+/*
+
+
+
+
+*/
+
+
